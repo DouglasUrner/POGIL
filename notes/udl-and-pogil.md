@@ -12,3 +12,5 @@ From [UDL at a Glance](http://www.cast.org/our-work/about-udl.html#.Xn_zJy-z125)
 * Engagement - The **why** of learning. Affective Networks.
 * Representation - The **what** of learning. Recognition Networks.
 * Action & Expression - The **how** of learning. Strategic Networks.
+
+[The UDL Guidelines](http://udlguidelines.cast.org/?utm_medium=web&utm_campaign=none&utm_source=cast-about-udl)
