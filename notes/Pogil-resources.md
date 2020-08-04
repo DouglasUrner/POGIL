@@ -1,1 +1,1 @@
-[Learn Java in N Games](https:lijing.com)
+[Learn Java in N Games](https:lijing.org)
