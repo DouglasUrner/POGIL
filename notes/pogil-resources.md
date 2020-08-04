@@ -14,3 +14,5 @@ cspogil.org
 >"If the experiments analyzed here had been conducted as randomized controlled trials of medical interventions, they may have been stopped for benefit—meaning that enrolling patients in the control condition [the medical equivalent of traditional lecturing] might be discontinued because the treatment [use of active learning technique] being tested was clearly more beneficial.”
 
 >"Given our results, it is reasonable to raise concerns about the continued use of traditional lecturing as a control in future experiments."
+
+https://cuvids.io/app/course/2/
